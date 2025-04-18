@@ -4,5 +4,23 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "mysql": "^2.18.1"
-  }
+  },
+  "name": "comp3421-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisPMC/COMP3421-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisPMC/COMP3421-Backend/issues"
+  },
+  "homepage": "https://github.com/borisPMC/COMP3421-Backend#readme"
 }
